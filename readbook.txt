@@ -1,0 +1,9 @@
+https://wenku.baidu.com/view/203e03ed102de2bd96058809.html?rec_flag=default&sxts=1532507909255
+
+下行物理信道
+
+
+上行物理信道
+PUSCH:上行物理共享信道
+PUCCH:上行物理控制信道
+PRACH:物理随机接入信道
